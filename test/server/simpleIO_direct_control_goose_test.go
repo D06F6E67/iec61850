@@ -1,7 +1,7 @@
 package server
 
 import (
-	"github.com/wendy512/iec61850"
+	"github.com/D06F6E67/iec61850"
 	"math/rand"
 	"os"
 	"os/signal"

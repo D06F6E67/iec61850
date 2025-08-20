@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/wendy512/iec61850"
+	"github.com/D06F6E67/iec61850"
 )
 
 func TestSvPublisher(t *testing.T) {

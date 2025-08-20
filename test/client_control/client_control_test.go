@@ -1,8 +1,8 @@
 package client_control
 
 import (
-	"github.com/wendy512/iec61850"
-	"github.com/wendy512/iec61850/test"
+	"github.com/D06F6E67/iec61850"
+	"github.com/D06F6E67/iec61850/test"
 	"testing"
 )
 

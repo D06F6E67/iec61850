@@ -8,7 +8,7 @@ import (
 	"syscall"
 	"testing"
 
-	"github.com/wendy512/iec61850"
+	"github.com/D06F6E67/iec61850"
 )
 
 func printReportValue(report *iec61850.GooseReport) {
